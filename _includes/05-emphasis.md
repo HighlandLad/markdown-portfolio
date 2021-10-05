@@ -2,12 +2,13 @@
 
 ## Programming languages
 
-* C#
+* __C#__
+* Xamarin
 
 ## Skills
 
 * fucking
 * cunnilingus
 * orgasms
-   * for me
-   * for her
+   * for _me_
+   * for _her_
