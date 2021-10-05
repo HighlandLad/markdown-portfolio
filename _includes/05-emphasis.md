@@ -1,1 +1,13 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Some of my awesome attributes
+
+## Programming languages
+
+* C#
+
+## Skills
+
+* fucking
+* cunnilingus
+* orgasms
+   * for me
+   * for her
